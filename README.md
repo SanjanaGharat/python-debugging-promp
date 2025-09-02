@@ -18,11 +18,6 @@ The Python Screening Task 2 requires creating a natural-language prompt for an A
 - **Encourage Learning**: Use a supportive tone to foster confidence and teach debugging skills.
 - **Include Reasoning**: Explain the design choices, tone, balance of feedback, and adaptability for different learner levels.
 
-The deliverables include:
-- A single prompt (in plain text or Markdown).
-- A detailed reasoning section answering specific questions about tone, balance, and adaptability.
-- Setup instructions for accessing the prompt.
-- Submission via a public GitHub repository, with the link emailed to [pythonsupport@fossee.in](mailto:pythonsupport@fossee.in).
 
 ## Solution
 

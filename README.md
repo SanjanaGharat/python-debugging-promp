@@ -1,10 +1,10 @@
 # Python Debugging Assistant Prompt
 
-**Author**: Sanjana Sajan Gharat  
-**Email**: Sanjanasajangharat2022@vitbhopl.ac.in 
-**Submission Date**: September 2, 2025  
-**Repository**: [https://github.com/SanjanaGharat/python-debugging-promp.git](https://github.com/SanjanaGharat/python-debugging-promp.git) 
-**Purpose**: Submission for Python Screening Task 2 by FOSSEE
+**Author**: Sanjana Sajan Gharat  <br>
+**Email**: Sanjanasajangharat2022@vitbhopl.ac.in <br>
+**Submission Date**: September 2, 2025  <br>
+**Repository**: [https://github.com/SanjanaGharat/python-debugging-promp.git](https://github.com/SanjanaGharat/python-debugging-promp.git) <br>
+**Purpose**: Submission for Python Screening Task 2 by FOSSEE<br>
 
 This repository contains a carefully crafted prompt designed for an AI debugging assistant to help students debug their Python code. The prompt ensures the AI provides constructive, encouraging, and student-friendly feedback without revealing the correct solution. This README provides a detailed explanation of the problem statement, the solution (the prompt), how it works, and the reasoning behind its design.
 
